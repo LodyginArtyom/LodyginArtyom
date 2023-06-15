@@ -16,7 +16,7 @@
 [![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/vk666666vk)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://vk.com/vk666666vk)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LodyginArtyom)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LodyginArtyom&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 ![FOOTER](https://github.com/LodyginArtyom/LodyginArtyom/blob/main/assets/programmer-programming.gif)]
 
 
