@@ -5,5 +5,5 @@
 
 ### Languages and Tools
 ![DJANGO](https://img.shields.io/badge/-GJANGO-GREEN?style=for-the-badge&logo=django)
-![PYTHON](https://img.shields.io/badge/-Python-BLACK?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-BLUE?style=for-the-badge&logo=mysql)   
+![PYTHON](https://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=mysql)   
