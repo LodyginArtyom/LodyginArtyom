@@ -2,3 +2,6 @@
 
 
 ## Hi, I'm a beginner programmer
+
+### Languages and Tools
+![DJANGO](https://img.shields.io/badge/-GJANGO-GREEN?style=for-the-badge&logo=django) 
