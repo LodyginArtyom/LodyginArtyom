@@ -11,4 +11,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-important?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-800080?style=for-the-badge&logo=css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0000FF?style=for-the-badge&logo=bootstrap)
+
+### Follow me
+[![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/vk666666vk)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://vk.com/vk666666vk)
+
+
          
